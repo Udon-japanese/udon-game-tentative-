@@ -280,25 +280,25 @@ const JoyStick = (function(container, parameters, callback) { // function と =>
 
   /**
    * @description キャンバスの幅を返す関数
-   * @return {Int} 幅の px 値
+   * @return {Number} 幅の px 値
    */
   this.GetWidth = () => canvas.width;
 
   /**
    * @description キャンバスの高さを返す関数
-   * @return {Int} 高さの px 値
+   * @return {Number} 高さの px 値
    */
   this.GetHeight = () => canvas.height;
 
   /**
    * @description キャンバスの寸法に対するカーソルの X 座標を返す関数
-   * @return {Int} 相対的な位置
+   * @return {Number} 相対的な位置
    */
   this.GetPosX = () => movedX;
 
   /**
    * @description キャンバスの寸法に対するカーソルの Y 座標を返す関数
-   * @return {Int} 相対的な位置
+   * @return {Number} 相対的な位置
    */
   this.GetPosY = () => movedY;
 
