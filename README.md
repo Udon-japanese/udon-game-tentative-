@@ -1,6 +1,9 @@
 # うどんゲーム(仮)
 リポジトリ名は仮です。
 
+## 本リポジトリのライセンス
+MIT ライセンスを使用しております。
+
 ## 参考にさせていただいたコード
 [Roberto D'Amico](https://github.com/bobboteck) 様の[JoyStick](https://github.com/bobboteck/JoyStick)を参考にいたしました。
 
